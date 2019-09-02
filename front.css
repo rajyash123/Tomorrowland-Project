@@ -1,0 +1,21 @@
+    div {
+        font-family: Montserrat;
+        }
+    .card1{
+        border: 1px solid ;
+        border-radius: 2px;
+    .smallcard {
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-bottom: 2px 2px;
+        margin-right: 20px;
+        padding: 10px;
+    }
+
+    }
+    .heading1{
+        text-align: center;
+        position: relative;
+        top: 20px;
+        font-weight: 30%;
+}
